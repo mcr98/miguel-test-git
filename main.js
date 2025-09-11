@@ -1,4 +1,4 @@
-const a="hola!!";
+const a="hola";
 
 console.log(a);
 
