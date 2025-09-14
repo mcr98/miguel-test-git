@@ -1,4 +1,4 @@
-const a="Holaaaaa";
+const a="qué tal?";
 
 console.log(a);
 
